@@ -65,7 +65,7 @@ os.environ["OPENAI_API_KEY"] = "your_api_key_here"
 
 ## 🔗 Google Colab Notebook
 
-👉 [Open in Google Colab](https://colab.research.google.com/drive/1lD-paqAMXVemxh4uU3DpZdNMCKjwa2qy#scrollTo=VkgyWRBN1pKh)
+👉 [Open in Google Colab](https://colab.research.google.com/drive/1lD-paqAMXVemxh4uU3DpZdNMCKjwa2qy#scrollTo=NgSCUH2-4SMI)
 
 ---
 
